@@ -15,4 +15,7 @@
 		"amount": 1000000000000,
 		"currency": "galactic credits"
 		}
+	"effectiveness":{
+		"level": 30
+	}
 }
